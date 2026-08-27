@@ -5,7 +5,7 @@ from os import listdir
 from os.path import isdir, isfile
 import os
 import site
-import sys
+#import sys
 import subprocess
 
 this_dir = os.path.dirname(os.path.abspath(__file__))
